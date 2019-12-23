@@ -1,2 +1,2 @@
-# react-native-self
+# Личный блог на react native
 
